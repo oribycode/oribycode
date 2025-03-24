@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @oribycode
-  
 <h1 align="center">Oriby Code 🚀</h1>
 <p align="center">
   <b>Unlock Your Ideas with Oriby Code</b>  
   <br>  
-  <a href="https://yourwebsite.com"><strong>🌍 Visit Website »</strong></a>
+  <a href="http://oribycode.pages.dev/"><strong>🌍 Visit Website »</strong></a>
 </p>
 
 ---
@@ -35,10 +33,10 @@
 ---
 
 ### 🌐 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-github-username)  
-[![Website](https://img.shields.io/badge/Website-0078D4?style=flat-square&logo=google-chrome&logoColor=white)](https://yourwebsite.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/oribycode)  
+[![Website](https://img.shields.io/badge/Website-0078D4?style=flat-square&logo=google-chrome&logoColor=white)](http://oribycode.pages.dev/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/oribycode)  
 
 ---
 
