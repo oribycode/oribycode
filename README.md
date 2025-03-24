@@ -22,12 +22,6 @@
 
 ---
 
-
- <a href='https://www.free-counters.org/'>... by Free-Counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=64e99477f80fdb80d25caee74a16c92332478a45'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1319335/t/5"></script>
-
----
-
 ### 🚀 Tech Stack  
 ![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=flat-square&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
